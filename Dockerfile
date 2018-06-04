@@ -19,4 +19,3 @@ RUN cd tinyproxy && \
 EXPOSE 8888
 
 COPY tinyproxy.conf /usr/local/etc/tinyproxy/tinyproxy.conf
-
